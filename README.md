@@ -1,3 +1,4 @@
+
 # GraceLand Stores
 
 ![](Furniture.jpg)
@@ -35,7 +36,7 @@ The report consists of two pages;
 This clearly shows that Salesperson 12 is the top performing salesperson, excelling both in revenue generation and product sales.
 ---
 2. Product
-![](Product.jpg)
+![](DProduct_page-0001.jpg)![DProduct_page-0001](https://github.com/ProsperH/GraceLand/assets/137958078/6a925ca1-ff13-4b43-9855-b4f4a8a46f6b)
 Interestingly, while Showcase is the most sold product, it is Couch that generates the highest revenue. This can be attributed to Couch being the most expensive product in the inventory, which likely contributes significantly to its revenue dominance.
 
 ### Recommendations
